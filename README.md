@@ -1,4 +1,4 @@
-<h1 align="center"> 🎯Java Challenge - Conversor de Moedas</h1>
+<h1 align="center"> 💰Java Challenge - Conversor de Moedas</h1>
 Este desafio aborda a criação de um programa Java que se conecta 
 à API <a href="https://www.exchangerate-api.com//">ExchangeRate</a> para obter taxas de câmbio atualizadas entre diferentes moedas. O desafio faz parte do programa Oracle Next Education
 com a colaboração entre Alura e Oracle. 
